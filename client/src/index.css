@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(178, 233, 233);
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+}
